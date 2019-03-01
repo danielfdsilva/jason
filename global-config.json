@@ -1,3 +1,10 @@
 {
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "elections": [
+    {
+      "id": "wolesi-jirga-2018",
+      "name": "Wolesi Jirga",
+      "year": 2018
+    }
+  ]
 }
